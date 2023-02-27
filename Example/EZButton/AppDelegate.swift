@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  EZButton
 //
-//  Created by SunneyG on 02/27/2023.
-//  Copyright (c) 2023 SunneyG. All rights reserved.
+//  Created by Wallaby on 02/27/2023.
+//  Copyright (c) 2023 Wallaby. All rights reserved.
 //
 
 import UIKit

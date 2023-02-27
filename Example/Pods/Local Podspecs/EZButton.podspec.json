@@ -1,0 +1,22 @@
+{
+  "name": "EZButton",
+  "version": "0.1.0",
+  "summary": "더 사용하기 쉬운 버튼(쏯쏯)",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SunneyG/EZButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wallaby": "avocado34.131@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/WallabyStuff/EZButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Sources/**/*"
+}

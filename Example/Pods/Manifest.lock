@@ -1,0 +1,16 @@
+PODS:
+  - EZButton (0.1.0)
+
+DEPENDENCIES:
+  - EZButton (from `../`)
+
+EXTERNAL SOURCES:
+  EZButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EZButton: 79237e6cd57a2b71d801ee5ab6553f5e2fc09539
+
+PODFILE CHECKSUM: 437d4130fc1104e2f7406a00abcc6b085b366ee9
+
+COCOAPODS: 1.11.3

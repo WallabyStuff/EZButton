@@ -1,0 +1,6 @@
+framework module EZButton {
+  umbrella header "EZButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
