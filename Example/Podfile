@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'EZButton_Example' do
+  pod 'EZButton', :path => '../'
+
+  target 'EZButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
